@@ -4,3 +4,9 @@
 - Giovanni
 - Wiebe
 - Ronnie
+
+# Rollen
+- Iedereen maakt Bezoeker
+- Ronnie maakt Klant
+- Giovanni maakt Medewerker
+- Wiebe maakt Admin
